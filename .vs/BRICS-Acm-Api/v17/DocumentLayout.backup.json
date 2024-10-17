@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0278A1B9-1492-4E98-A89F-E7D6234E5A91}|BRICS-Acm-Api\\BRICS-Acm-Api.csproj|c:\\users\\dell-pc\\source\\repos\\brics-acm-api\\brics-acm-api\\controllers\\hdfccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0278A1B9-1492-4E98-A89F-E7D6234E5A91}|BRICS-Acm-Api\\BRICS-Acm-Api.csproj|solutionrelative:brics-acm-api\\controllers\\hdfccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0278A1B9-1492-4E98-A89F-E7D6234E5A91}|BRICS-Acm-Api\\BRICS-Acm-Api.csproj|c:\\users\\dell-pc\\source\\repos\\brics-acm-api\\brics-acm-api\\services\\service\\hdfcimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0278A1B9-1492-4E98-A89F-E7D6234E5A91}|BRICS-Acm-Api\\BRICS-Acm-Api.csproj|solutionrelative:brics-acm-api\\services\\service\\hdfcimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0278A1B9-1492-4E98-A89F-E7D6234E5A91}|BRICS-Acm-Api\\BRICS-Acm-Api.csproj|c:\\users\\dell-pc\\source\\repos\\brics-acm-api\\brics-acm-api\\services\\interface\\ihdfcinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0278A1B9-1492-4E98-A89F-E7D6234E5A91}|BRICS-Acm-Api\\BRICS-Acm-Api.csproj|solutionrelative:brics-acm-api\\services\\interface\\ihdfcinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HdfcImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\BRICS-Acm-Api\\Services\\Service\\HdfcImplementation.cs",
+              "RelativeDocumentMoniker": "BRICS-Acm-Api\\Services\\Service\\HdfcImplementation.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\BRICS-Acm-Api\\Services\\Service\\HdfcImplementation.cs",
+              "RelativeToolTip": "BRICS-Acm-Api\\Services\\Service\\HdfcImplementation.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:04:06.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IhdfcInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\BRICS-Acm-Api\\Services\\Interface\\IhdfcInterface.cs",
+              "RelativeDocumentMoniker": "BRICS-Acm-Api\\Services\\Interface\\IhdfcInterface.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\BRICS-Acm-Api\\Services\\Interface\\IhdfcInterface.cs",
+              "RelativeToolTip": "BRICS-Acm-Api\\Services\\Interface\\IhdfcInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:40:53.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HDFCController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\BRICS-Acm-Api\\Controllers\\HDFCController.cs",
+              "RelativeDocumentMoniker": "BRICS-Acm-Api\\Controllers\\HDFCController.cs",
+              "ToolTip": "C:\\Users\\Dell-PC\\source\\repos\\BRICS-Acm-Api\\BRICS-Acm-Api\\Controllers\\HDFCController.cs",
+              "RelativeToolTip": "BRICS-Acm-Api\\Controllers\\HDFCController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:32:34.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

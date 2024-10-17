@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "BRICS_Acm_Api.Controllers.HDFCController",
+    "Method": "CoreAlert",
+    "RelativePath": "api/external/coreAlert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BRICS_Acm_Api.Controllers.HDFCController",
+    "Method": "Testing",
+    "RelativePath": "api/Testing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
